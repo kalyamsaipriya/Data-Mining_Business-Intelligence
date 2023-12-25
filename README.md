@@ -32,7 +32,7 @@ This project focuses on the implementation of the k-nearest Neighbors (k-NN) alg
 The k-NN algorithm can be employed for classification or prediction tasks. In this project, we delve into its application for categorical outcome classification. The fundamental idea is that individuals are likely to belong to a particular category based on the characteristics of their nearest neighbors in the dataset.
 
 ## **Procedure**
-Assume the outcome variable Y has two levels: Y1 and Y2.
+Assumed the outcome variable Y has two levels: Y1 and Y2.
 A new record is labeled as Y1 or Y2 based on its predictors (X1, X2, ...).
 Calculated the distance from the new record to existing records (neighbors).
 Identified the k records with the shortest distance (closest neighbors).
